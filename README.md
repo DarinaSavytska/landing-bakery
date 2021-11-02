@@ -4,7 +4,7 @@ This is a landing page for Creative Bakery, includes following blocks: header, b
 
 [MOCKUP](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
 
-[DEMO LINK]()
+[DEMO LINK](https://darinasavytska.github.io/landing-bakery/)
 
 **TECHNOLOGIES:**
 - HTML
