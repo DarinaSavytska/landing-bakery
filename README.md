@@ -12,7 +12,6 @@ This is a landing page for Creative Bakery, includes following blocks: header, b
 - JavaScript
 - BEM
 - Flexbox
-- Grid
 
 **Local development**
 
